@@ -1,0 +1,500 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 12,
+        "name": "Checking the search feature successfully",
+        "description": "",
+        "id": "in-order-to-delete-customer-successfully;checking-the-search-feature-successfully;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 12826414128,
+              "status": "passed"
+            },
+            "line": 3,
+            "name": "I open the website http://www.globalsqa.com/angularJs-protractor/BankingProject/#/login",
+            "match": {
+              "arguments": [
+                {
+                  "val": "http://www.globalsqa.com/angularJs-protractor/BankingProject/#/login",
+                  "offset": 19
+                }
+              ],
+              "location": "Common.i_open_the_website(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 5178983022,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "I click bank manager login button",
+            "match": {
+              "location": "Common.i_click_bank_manager_login_button()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 3032538627,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I verify the dashboard manage account in bank",
+            "match": {
+              "location": "Common.i_verify_the_dashboard_manage_account_in_bank()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 4088628407,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I click on \u0027Customers\u0027 button",
+            "match": {
+              "location": "DeleteCustomerDefinition.i_click_on_customers_button()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 4035758535,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I verify the Customers page",
+            "match": {
+              "location": "DeleteCustomerDefinition.i_verify_the_customers_page()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 4102536972,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I input value into \u0027Search\u0027 field as aaaaaaaa",
+            "match": {
+              "arguments": [
+                {
+                  "val": "aaaaaaaa",
+                  "offset": 37
+                }
+              ],
+              "location": "DeleteCustomerDefinition.i_input_value_into_search_field_as(String)"
+            },
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 5036064218,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I verify the return data as 0",
+            "match": {
+              "arguments": [
+                {
+                  "val": "0",
+                  "offset": 28
+                }
+              ],
+              "location": "DeleteCustomerDefinition.i_verify_the_return_data_as(Integer)"
+            },
+            "matchedColumns": [
+              2
+            ],
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 13,
+        "name": "Checking the search feature successfully",
+        "description": "",
+        "id": "in-order-to-delete-customer-successfully;checking-the-search-feature-successfully;;3",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 5049637337,
+              "status": "passed"
+            },
+            "line": 3,
+            "name": "I open the website http://www.globalsqa.com/angularJs-protractor/BankingProject/#/login",
+            "match": {
+              "arguments": [
+                {
+                  "val": "http://www.globalsqa.com/angularJs-protractor/BankingProject/#/login",
+                  "offset": 19
+                }
+              ],
+              "location": "Common.i_open_the_website(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 5098762445,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "I click bank manager login button",
+            "match": {
+              "location": "Common.i_click_bank_manager_login_button()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 3038741880,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I verify the dashboard manage account in bank",
+            "match": {
+              "location": "Common.i_verify_the_dashboard_manage_account_in_bank()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 4148713090,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I click on \u0027Customers\u0027 button",
+            "match": {
+              "location": "DeleteCustomerDefinition.i_click_on_customers_button()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 4031471898,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I verify the Customers page",
+            "match": {
+              "location": "DeleteCustomerDefinition.i_verify_the_customers_page()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 4084929373,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I input value into \u0027Search\u0027 field as Hermoine",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Hermoine",
+                  "offset": 37
+                }
+              ],
+              "location": "DeleteCustomerDefinition.i_input_value_into_search_field_as(String)"
+            },
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 5048768640,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I verify the return data as 1",
+            "match": {
+              "arguments": [
+                {
+                  "val": "1",
+                  "offset": 28
+                }
+              ],
+              "location": "DeleteCustomerDefinition.i_verify_the_return_data_as(Integer)"
+            },
+            "matchedColumns": [
+              2
+            ],
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 14,
+        "name": "Checking the search feature successfully",
+        "description": "",
+        "id": "in-order-to-delete-customer-successfully;checking-the-search-feature-successfully;;4",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 5035150428,
+              "status": "passed"
+            },
+            "line": 3,
+            "name": "I open the website http://www.globalsqa.com/angularJs-protractor/BankingProject/#/login",
+            "match": {
+              "arguments": [
+                {
+                  "val": "http://www.globalsqa.com/angularJs-protractor/BankingProject/#/login",
+                  "offset": 19
+                }
+              ],
+              "location": "Common.i_open_the_website(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 5128835427,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "I click bank manager login button",
+            "match": {
+              "location": "Common.i_click_bank_manager_login_button()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 3027690678,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I verify the dashboard manage account in bank",
+            "match": {
+              "location": "Common.i_verify_the_dashboard_manage_account_in_bank()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 4140134189,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I click on \u0027Customers\u0027 button",
+            "match": {
+              "location": "DeleteCustomerDefinition.i_click_on_customers_button()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 4021689016,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I verify the Customers page",
+            "match": {
+              "location": "DeleteCustomerDefinition.i_verify_the_customers_page()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 4092266196,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I input value into \u0027Search\u0027 field as ne",
+            "match": {
+              "arguments": [
+                {
+                  "val": "ne",
+                  "offset": 37
+                }
+              ],
+              "location": "DeleteCustomerDefinition.i_input_value_into_search_field_as(String)"
+            },
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 212814050,
+              "error_message": "java.lang.AssertionError\n\tat org.junit.Assert.fail(Assert.java:86)\n\tat org.junit.Assert.assertTrue(Assert.java:41)\n\tat org.junit.Assert.assertTrue(Assert.java:52)\n\tat modules.DeleteCustomerAction.verifySearchResult(DeleteCustomerAction.java:62)\n\tat stepdefinition.DeleteCustomerDefinition.i_verify_the_return_data_as(DeleteCustomerDefinition.java:44)\n\tat ✽.Then I verify the return data as 2(src/test/resources/5.DeleteCustomer.feature:9)\n",
+              "status": "failed"
+            },
+            "line": 9,
+            "name": "I verify the return data as 2",
+            "match": {
+              "arguments": [
+                {
+                  "val": "2",
+                  "offset": 28
+                }
+              ],
+              "location": "DeleteCustomerDefinition.i_verify_the_return_data_as(Integer)"
+            },
+            "matchedColumns": [
+              2
+            ],
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 28,
+        "name": "Checking the deleting a customer successfully",
+        "description": "",
+        "id": "in-order-to-delete-customer-successfully;checking-the-deleting-a-customer-successfully;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 5043582157,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "I open the website http://www.globalsqa.com/angularJs-protractor/BankingProject/#/login",
+            "match": {
+              "arguments": [
+                {
+                  "val": "http://www.globalsqa.com/angularJs-protractor/BankingProject/#/login",
+                  "offset": 19
+                }
+              ],
+              "location": "Common.i_open_the_website(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 10602591875,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "I click bank manager login button",
+            "match": {
+              "location": "Common.i_click_bank_manager_login_button()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 8179508835,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "I verify the dashboard manage account in bank",
+            "match": {
+              "location": "Common.i_verify_the_dashboard_manage_account_in_bank()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 7317690254,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "I click on \u0027Customers\u0027 button",
+            "match": {
+              "location": "DeleteCustomerDefinition.i_click_on_customers_button()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 4107470300,
+              "status": "passed"
+            },
+            "line": 22,
+            "name": "I verify the Customers page",
+            "match": {
+              "location": "DeleteCustomerDefinition.i_verify_the_customers_page()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 15266552565,
+              "status": "passed"
+            },
+            "line": 23,
+            "name": "I input value into \u0027Search\u0027 field as Hue",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Hue",
+                  "offset": 37
+                }
+              ],
+              "location": "DeleteCustomerDefinition.i_input_value_into_search_field_as(String)"
+            },
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 5707084895,
+              "error_message": "org.openqa.selenium.NoSuchElementException: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//div[1]/div/div[2]/div/div[2]/div/div/table/tbody/tr/td[5]/button\"}\nCommand duration or timeout: 5.69 seconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: \u00272.53.1\u0027, revision: \u0027a36b8b1cd5757287168e54b817830adce9b0158d\u0027, time: \u00272016-06-30 19:26:09\u0027\nSystem info: host: \u0027HueThaiT-MacBook-Air.local\u0027, ip: \u0027127.0.0.1\u0027, os.name: \u0027Mac OS X\u0027, os.arch: \u0027x86_64\u0027, os.version: \u002710.12.3\u0027, java.version: \u00271.8.0_151\u0027\nDriver info: org.openqa.selenium.firefox.FirefoxDriver\nCapabilities [{applicationCacheEnabled\u003dtrue, rotatable\u003dfalse, handlesAlerts\u003dtrue, databaseEnabled\u003dtrue, version\u003d46.0, platform\u003dMAC, nativeEvents\u003dfalse, acceptSslCerts\u003dtrue, webStorageEnabled\u003dtrue, locationContextEnabled\u003dtrue, browserName\u003dfirefox, takesScreenshot\u003dtrue, javascriptEnabled\u003dtrue, cssSelectorsEnabled\u003dtrue}]\nSession ID: 4995e77c-c98d-1043-939f-bef60f82dce2\n*** Element info: {Using\u003dxpath, value\u003d//div[1]/div/div[2]/div/div[2]/div/div/table/tbody/tr/td[5]/button}\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\n\tat java.lang.reflect.Constructor.newInstance(Constructor.java:423)\n\tat org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)\n\tat org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:363)\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:500)\n\tat org.openqa.selenium.By$ByXPath.findElement(By.java:361)\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)\n\tat org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)\n\tat org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)\n\tat com.sun.proxy.$Proxy17.click(Unknown Source)\n\tat modules.DeleteCustomerAction.clickDeleteBtn(DeleteCustomerAction.java:74)\n\tat stepdefinition.DeleteCustomerDefinition.i_click_on_delete_button_to_delete_a_customer(DeleteCustomerDefinition.java:53)\n\tat ✽.And I click on \u0027Delete\u0027 button to delete a customer(src/test/resources/5.DeleteCustomer.feature:24)\nCaused by: org.openqa.selenium.NoSuchElementException: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//div[1]/div/div[2]/div/div[2]/div/div/table/tbody/tr/td[5]/button\"}\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: \u00272.53.1\u0027, revision: \u0027a36b8b1cd5757287168e54b817830adce9b0158d\u0027, time: \u00272016-06-30 19:26:09\u0027\nSystem info: host: \u0027HueThaiT-MacBook-Air.local\u0027, ip: \u0027127.0.0.1\u0027, os.name: \u0027Mac OS X\u0027, os.arch: \u0027x86_64\u0027, os.version: \u002710.12.3\u0027, java.version: \u00271.8.0_151\u0027\nDriver info: driver.version: unknown\n\tat \u003canonymous class\u003e.FirefoxDriver.prototype.findElementInternal_(file:///var/folders/23/9nh1dzd11hlgm00b_g4bpqyr0000gp/T/anonymous8962720637589898549webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:10770)\n\tat \u003canonymous class\u003e.FirefoxDriver.prototype.findElement(file:///var/folders/23/9nh1dzd11hlgm00b_g4bpqyr0000gp/T/anonymous8962720637589898549webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:10779)\n\tat \u003canonymous class\u003e.DelayedCommand.prototype.executeInternal_/h(file:///var/folders/23/9nh1dzd11hlgm00b_g4bpqyr0000gp/T/anonymous8962720637589898549webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12661)\n\tat \u003canonymous class\u003e.DelayedCommand.prototype.executeInternal_(file:///var/folders/23/9nh1dzd11hlgm00b_g4bpqyr0000gp/T/anonymous8962720637589898549webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12666)\n\tat \u003canonymous class\u003e.DelayedCommand.prototype.execute/\u003c(file:///var/folders/23/9nh1dzd11hlgm00b_g4bpqyr0000gp/T/anonymous8962720637589898549webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12608)\n",
+              "status": "failed"
+            },
+            "line": 24,
+            "name": "I click on \u0027Delete\u0027 button to delete a customer",
+            "match": {
+              "location": "DeleteCustomerDefinition.i_click_on_delete_button_to_delete_a_customer()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 25,
+            "name": "I verify the customer is deleted successfully",
+            "match": {
+              "location": "DeleteCustomerDefinition.i_verify_the_customer_is_deleted_successfully()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "In order to Delete Customer successfully",
+    "description": "",
+    "id": "in-order-to-delete-customer-successfully",
+    "keyword": "Feature",
+    "uri": "src/test/resources/5.DeleteCustomer.feature"
+  }
+]

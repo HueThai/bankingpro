@@ -27,13 +27,13 @@ public class AddCustomerAction {
   public static void verifyDashboardManagerScreen(WebDriver driver, HashMap<String, String> map) throws Exception {
 
         Log.info("Click action is perfromed on My Account link");
-        BankManagerPage.addCustomerBtn.isDisplayed();
+        BankManagerPage.addCustomer_btn.isDisplayed();
     }
 
     public static void clickAddCustomerBtn(WebDriver driver, HashMap<String, String> map) throws Exception {
 
         Log.info("Click action is performed on Add Customer button");
-        BankManagerPage.addCustomerBtn.click();
+        BankManagerPage.addCustomer_btn.click();
 
     }
 
@@ -71,7 +71,7 @@ public class AddCustomerAction {
     public static void clickAddCustomerSubmitBtn(WebDriver driver, HashMap<String, String> map, Boolean status) throws Exception {
 
         Log.info("Click action is performed on Add Customer Submit");
-        BankManagerPage.addCustomSubmit.click();
+        BankManagerPage.addCustomSubmit_btn.click();
         Thread.sleep(3000);
         //click OK after add customer successfully
         if (status) {
@@ -96,12 +96,12 @@ public class AddCustomerAction {
     public static void verifyAddCusSuccessfully(WebDriver driver, HashMap<String, String> map) throws Exception {
 
 
-        BankManagerPage.openAcctBtn.click();
+        BankManagerPage.openAccount_btn.click();
         Thread.sleep(3000);
         //Check Customer Name has Hue Thai or not ; EXpected Hue Thai has customer drop down
         //get list option
         //List<WebElement> list = SetUp.driver.findElement(By.id("userSelect")).findElements(By.tagName("option"));
-        List<WebElement> cusList = BankManagerPage.CusNameDdl.findElements(By.tagName("option"));
+        List<WebElement> cusList = BankManagerPage.custName_ddl.findElements(By.tagName("option"));
         Boolean add = false;
         // check full name is existed or not
         for (WebElement e : cusList) {
@@ -124,12 +124,12 @@ public class AddCustomerAction {
     public static void verifyAddCusUnuccessfully(WebDriver driver, HashMap<String, String> map) throws Exception {
 
 
-        BankManagerPage.openAcctBtn.click();
+        BankManagerPage.openAccount_btn.click();
         Thread.sleep(3000);
         //Check Customer Name has Hue Thai or not ; EXpected Hue Thai has customer drop down
         //get list option
         //List<WebElement> list = SetUp.driver.findElement(By.id("userSelect")).findElements(By.tagName("option"));
-        List<WebElement> cusList = BankManagerPage.CusNameDdl.findElements(By.tagName("option"));
+        List<WebElement> cusList = BankManagerPage.custName_ddl.findElements(By.tagName("option"));
         Boolean add = false;
         // check full name is existed or not
         for (WebElement e : cusList) {

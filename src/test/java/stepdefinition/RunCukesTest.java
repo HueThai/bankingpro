@@ -12,22 +12,21 @@ import org.junit.runner.RunWith;
  */
 @RunWith(Cucumber.class)
 @CucumberOptions(
-        features = "src/test/resources",
+        features = {"src/test/resources/5.DeleteCustomer.feature"},
+
         plugin = {"pretty", "json:target/cucumber-report/cucumber.json"}, // lưu report bằng file  khi mở jenkin
         //plugin = {"pretty", "html:target/cucumber-report/cucumber.html"},lưu report bằng file html khi mở jenkin
         tags = {}
 )
 public class RunCukesTest {
-        @BeforeClass
-        public static void setup() {
-        }
+    @BeforeClass
+    public static void setup() {
+    }
 
-        @AfterClass
-        public static void shutdown() {
+    @AfterClass
+    public static void shutdown() {
 
-        }
-
-
+    }
 
 
 }

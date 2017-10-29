@@ -1,12 +1,9 @@
 package modules;
 
-import helpers.Log;
 import org.junit.Assert;
 
 import org.openqa.selenium.Alert;
-import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.Select;
 import pageobjects.BankManagerPage;
 import stepdefinition.SetUp;
@@ -21,7 +18,7 @@ public class OpenCustomerAction {
 
     public static void clickOpenCustomerBtn(WebDriver driver, HashMap<String, String> map) throws Exception {
 
-        BankManagerPage.openAcctBtn.click();
+        BankManagerPage.openAccount_btn.click();
         Thread.sleep(5000);
 
     }
@@ -29,18 +26,18 @@ public class OpenCustomerAction {
     public static void verifyOpenCustPage (WebDriver driver, HashMap<String,String> map) throws Throwable{
 
 
-        Assert.assertEquals("userSelect", BankManagerPage.CusNameDdl.getAttribute("name"));
+        Assert.assertEquals("userSelect", BankManagerPage.custName_ddl.getAttribute("name"));
 
 
     }
 
     public static void chooseCustomer(WebDriver driver, HashMap<String,String> map, String Custname, String currency) throws Exception{
 
-        Select custList = new Select(BankManagerPage.CusNameDdl);
+        Select custList = new Select(BankManagerPage.custName_ddl);
         custList.selectByVisibleText(Custname);
         Thread.sleep(2000);
 
-        Select currentcyList = new Select(BankManagerPage.CurrencyDdl);
+        Select currentcyList = new Select(BankManagerPage.currency_ddl);
         currentcyList.selectByVisibleText(currency);
         Thread.sleep(2000);
 
@@ -48,7 +45,7 @@ public class OpenCustomerAction {
 
     public static void clickProcessBtn(WebDriver driver, HashMap<String,String> map){
 
-        BankManagerPage.processBtn.click();
+        BankManagerPage.process_btn.click();
 
     }
 
