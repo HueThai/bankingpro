@@ -14,8 +14,11 @@ import org.junit.runner.RunWith;
 @CucumberOptions(
         features = {"src/test/resources"},
 
-        plugin = {"pretty", "json:target/cucumber-report.json"}, // lưu report bằng file  khi mở jenkin
+        format = { "pretty","html:target/cucumber-htmlreport", "json:target/cucumber-report.json" },
+
+        //plugin = {"pretty", "json:target/cucumber-report.json"}, // lưu report bằng file  khi mở jenkin
         //plugin = {"pretty", "html:target/cucumber-report/cucumber.html"},lưu report bằng file html khi mở jenkin
+
         tags = {}
 )
 public class RunCukesTest {
@@ -27,6 +30,5 @@ public class RunCukesTest {
     public static void shutdown() {
 
     }
-
 
 }

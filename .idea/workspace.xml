@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46e862c2-7f58-449e-aadb-77c26550fade" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/cucumber-report/cucumber.json" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/stepdefinition/RunCukesTest.java" afterPath="$PROJECT_DIR$/src/test/java/stepdefinition/RunCukesTest.java" />
     </list>
     <ignored path="pom-project.iws" />
@@ -32,8 +31,8 @@
       <file leaf-file-name="RunCukesTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/stepdefinition/RunCukesTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+            <state relative-caret-position="495">
+              <caret line="33" column="1" lean-forward="false" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -735,7 +734,7 @@
       <workItem from="1509000927331" duration="4399000" />
       <workItem from="1509199619019" duration="15610000" />
       <workItem from="1509330427660" duration="1820000" />
-      <workItem from="1509354545642" duration="107000" />
+      <workItem from="1509354545642" duration="296000" />
     </task>
     <servers />
   </component>
@@ -772,7 +771,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68204000" />
+    <option name="totallyTimeSpent" value="68393000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="800" extended-state="0" />
@@ -1246,8 +1245,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/stepdefinition/RunCukesTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+        <state relative-caret-position="495">
+          <caret line="33" column="1" lean-forward="false" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
