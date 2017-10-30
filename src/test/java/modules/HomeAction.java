@@ -3,7 +3,6 @@ package modules;
 import helpers.Log;
 import org.openqa.selenium.WebDriver;
 import pageobjects.HomePage;
-
 import java.util.HashMap;
 
 /**

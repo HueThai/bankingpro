@@ -8,7 +8,6 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import pageobjects.BankManagerPage;
 import stepdefinition.SetUp;
-
 import java.util.HashMap;
 import java.util.List;
 

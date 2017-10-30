@@ -1,7 +1,5 @@
 package stepdefinition;
 
-import com.sun.jna.platform.win32.SetupApi;
-import com.sun.tools.classfile.Opcode;
 import cucumber.api.java.en.And;
 import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;

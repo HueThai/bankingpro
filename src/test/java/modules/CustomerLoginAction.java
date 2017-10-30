@@ -1,16 +1,12 @@
 package modules;
 
 import org.junit.Assert;
-import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.Select;
 import pageobjects.CustomerPage;
 import pageobjects.HomePage;
-import stepdefinition.SetUp;
-
 import java.util.HashMap;
-import java.util.List;
 
 /**
  * Created by huethait. on 9/1/17.

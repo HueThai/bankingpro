@@ -5,16 +5,9 @@ import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
 import modules.AddCustomerAction;
 import modules.CustomerLoginAction;
-import org.openqa.selenium.By;
-import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.PageFactory;
-import org.openqa.selenium.support.ui.Select;
-import pageobjects.BankManagerPage;
 import pageobjects.CustomerPage;
 import pageobjects.HomePage;
-import sun.security.util.PendingException;
-
-import java.util.Set;
 
 /**
  * Created by huethait. on 9/1/17.

@@ -91,107 +91,108 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="RunCukesTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="RunCukesTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/stepdefinition/RunCukesTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="1.AddCustomer.feature" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/resources/1.AddCustomer.feature">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="690">
-              <caret line="46" column="0" lean-forward="true" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2.OpenAccount.feature" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/resources/2.OpenAccount.feature">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="57" lean-forward="false" selection-start-line="16" selection-start-column="57" selection-end-line="16" selection-end-column="57" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="3.CustomerLogin.feature" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/resources/3.CustomerLogin.feature">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="40" lean-forward="true" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="4.Transactions.feature" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/resources/4.Transactions.feature">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="42" lean-forward="false" selection-start-line="0" selection-start-column="42" selection-end-line="0" selection-end-column="42" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="5.DeleteCustomer.feature" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/resources/5.DeleteCustomer.feature">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TransactionsPage.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/pageobjects/TransactionsPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TransactionsAction.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/modules/TransactionsAction.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="21" column="49" lean-forward="false" selection-start-line="21" selection-start-column="49" selection-end-line="21" selection-end-column="49" />
+            <state relative-caret-position="450">
+              <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
               <folding>
-                <element signature="method#clickDepositBtn#0;class#TransactionsAction#0" expanded="false" />
-                <element signature="method#inputAmount#0;class#TransactionsAction#0" expanded="false" />
-                <element signature="method#submitDeposit#0;class#TransactionsAction#0" expanded="false" />
-                <element signature="method#verifyConfirmMsg#0;class#TransactionsAction#0" expanded="false" />
-                <element signature="method#clickTransBtn#0;class#TransactionsAction#0" expanded="false" />
-                <element signature="method#verifyTransPage#0;class#TransactionsAction#0" expanded="false" />
-                <element signature="method#verifyTransData#0;class#TransactionsAction#0" expanded="false" />
-                <element signature="method#clickWithdrawlBtn#0;class#TransactionsAction#0" expanded="false" />
-                <element signature="method#submitWithdraw#0;class#TransactionsAction#0" expanded="false" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DeleteCustomerAction.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/modules/DeleteCustomerAction.java">
+      <file leaf-file-name="1.AddCustomer.feature" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/resources/1.AddCustomer.feature">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="43" column="53" lean-forward="false" selection-start-line="43" selection-start-column="53" selection-end-line="43" selection-end-column="53" />
+            <state relative-caret-position="190">
+              <caret line="23" column="36" lean-forward="true" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SetUp.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/stepdefinition/SetUp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="93">
+              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="method#clickCustomersBtn#0;class#DeleteCustomerAction#0" expanded="false" />
-                <element signature="method#verifyCustomersPage#0;class#DeleteCustomerAction#0" expanded="false" />
-                <element signature="method#inputSearchValue#0;class#DeleteCustomerAction#0" expanded="false" />
-                <element signature="method#clickDeleteBtn#0;class#DeleteCustomerAction#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TransactionsDefinition.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/stepdefinition/TransactionsDefinition.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="37" lean-forward="true" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#i_check_the_correct_customer_account_website#0;class#TransactionsDefinition#0" expanded="false" />
+                <element signature="method#i_select_account_number#0;class#TransactionsDefinition#0" expanded="false" />
+                <element signature="method#i_click_on_deposit_button#0;class#TransactionsDefinition#0" expanded="false" />
+                <element signature="method#i_input_amount_as#0;class#TransactionsDefinition#0" expanded="false" />
+                <element signature="method#i_click_on_deposit_button_to_deposit#0;class#TransactionsDefinition#0" expanded="false" />
+                <element signature="method#i_check_the_confirm_message_as#0;class#TransactionsDefinition#0" expanded="false" />
+                <element signature="method#i_click_on_transactions_button#0;class#TransactionsDefinition#0" expanded="false" />
+                <element signature="method#i_verify_transactions_page#0;class#TransactionsDefinition#0" expanded="false" />
+                <element signature="method#i_check_the_transactions_data_with_date_and#0;class#TransactionsDefinition#0" expanded="false" />
+                <element signature="method#i_click_on_withdrawl_button#0;class#TransactionsDefinition#0" expanded="false" />
+                <element signature="method#i_click_on_withdraw_button_to_withdraw#0;class#TransactionsDefinition#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AddCustomerDefinition.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/stepdefinition/AddCustomerDefinition.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Common.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/stepdefinition/Common.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="13" column="22" lean-forward="true" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CustomerLoginDefinition.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/stepdefinition/CustomerLoginDefinition.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HomePage.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/pageobjects/HomePage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="4" lean-forward="false" selection-start-line="11" selection-start-column="4" selection-end-line="13" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#308#309#0" expanded="true" />
+                <element signature="e#337#338#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -200,8 +201,20 @@
       <file leaf-file-name="DeleteCustomerDefinition.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/stepdefinition/DeleteCustomerDefinition.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="585">
-              <caret line="46" column="0" lean-forward="false" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
+            <state relative-caret-position="420">
+              <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OpenCustomerDefinition.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/stepdefinition/OpenCustomerDefinition.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="825">
+              <caret line="55" column="16" lean-forward="false" selection-start-line="55" selection-start-column="16" selection-end-line="55" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -324,27 +337,20 @@
       <list>
         <option value="$PROJECT_DIR$/src/test/java/modules/BankManagerAction.java" />
         <option value="$PROJECT_DIR$/src/test/java/stepdefinition/javascript.java" />
-        <option value="$PROJECT_DIR$/src/test/java/modules/OpenCustomerAction.java" />
         <option value="$PROJECT_DIR$/src/test/java/stepdefinition/OpenCustomerDefinition.java" />
         <option value="$PROJECT_DIR$/src/test/resources/1addCustomer.feature" />
         <option value="$PROJECT_DIR$/src/test/java/stepdefinition/SetUp.java" />
-        <option value="$PROJECT_DIR$/src/test/java/stepdefinition/Common.java" />
         <option value="$PROJECT_DIR$/src/test/java/stepdefinition/AddCustomerDefinition.java" />
-        <option value="$PROJECT_DIR$/src/test/java/modules/HomeAction.java" />
-        <option value="$PROJECT_DIR$/src/test/java/modules/AddCustomerAction.java" />
         <option value="$PROJECT_DIR$/src/test/resources/2openAccount.feature" />
         <option value="$PROJECT_DIR$/src/test/resources/3customerLogin.feature" />
         <option value="$PROJECT_DIR$/src/test/java/pageobjects/HomePage.java" />
-        <option value="$PROJECT_DIR$/src/test/java/stepdefinition/CustomerLoginDefinition.java" />
         <option value="$PROJECT_DIR$/src/test/java/pageobjects/CustomerPage.java" />
-        <option value="$PROJECT_DIR$/src/test/java/modules/CustomerLoginAction.java" />
         <option value="$PROJECT_DIR$/src/test/java/stepdefinition/TransactionsDefinition.java" />
         <option value="$PROJECT_DIR$/src/test/resources/4transactions.feature" />
         <option value="$PROJECT_DIR$/src/test/resources/DeleteAccount.feature" />
         <option value="$PROJECT_DIR$/src/test/java/pageobjects/BankManagerPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/modules/TransactionsAction.java" />
         <option value="$PROJECT_DIR$/src/test/java/modules/DeleteCustomerAction.java" />
-        <option value="$PROJECT_DIR$/src/test/java/stepdefinition/DeleteCustomerDefinition.java" />
         <option value="$PROJECT_DIR$/src/test/java/pageobjects/TransactionsPage.java" />
         <option value="$PROJECT_DIR$/src/test/resources/5.DeleteCustomer.feature" />
         <option value="$PROJECT_DIR$/src/test/resources/4.Transactions.feature" />
@@ -352,6 +358,13 @@
         <option value="$PROJECT_DIR$/src/test/resources/2.OpenAccount.feature" />
         <option value="$PROJECT_DIR$/src/test/resources/1.AddCustomer.feature" />
         <option value="$PROJECT_DIR$/src/test/java/stepdefinition/RunCukesTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/stepdefinition/DeleteCustomerDefinition.java" />
+        <option value="$PROJECT_DIR$/src/test/java/modules/AddCustomerAction.java" />
+        <option value="$PROJECT_DIR$/src/test/java/modules/CustomerLoginAction.java" />
+        <option value="$PROJECT_DIR$/src/test/java/modules/HomeAction.java" />
+        <option value="$PROJECT_DIR$/src/test/java/modules/OpenCustomerAction.java" />
+        <option value="$PROJECT_DIR$/src/test/java/stepdefinition/Common.java" />
+        <option value="$PROJECT_DIR$/src/test/java/stepdefinition/CustomerLoginDefinition.java" />
       </list>
     </option>
   </component>
@@ -361,7 +374,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="800" />
@@ -836,14 +849,11 @@
       <workItem from="1508992865425" duration="501000" />
       <workItem from="1509000927331" duration="4399000" />
       <workItem from="1509199619019" duration="15610000" />
-      <workItem from="1509330427660" duration="978000" />
+      <workItem from="1509330427660" duration="1820000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="RunCukesTest - 2017.10.29 at 13h 03m 34s.xml">
-      <configuration name="RunCukesTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="RunCukesTest - 2017.10.29 at 13h 19m 23s.xml">
       <configuration name="RunCukesTest" configurationId="JUnit" />
     </history-entry>
@@ -871,12 +881,15 @@
     <history-entry file="RunCukesTest - 2017.10.30 at 11h 53m 18s.xml">
       <configuration name="RunCukesTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="RunCukesTest - 2017.10.30 at 12h 01m 04s.xml">
+      <configuration name="RunCukesTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67255000" />
+    <option name="totallyTimeSpent" value="68097000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="800" extended-state="1" />
+    <frame x="0" y="23" width="1440" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -888,7 +901,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32905984" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37304965" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.09361702" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -995,7 +1008,7 @@
         <state relative-caret-position="0">
           <caret line="34" column="59" lean-forward="false" selection-start-line="34" selection-start-column="59" selection-end-line="34" selection-end-column="59" />
           <folding>
-            <element signature="imports" expanded="false" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1104,20 +1117,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/modules/HomeAction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="21" column="23" lean-forward="false" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/stepdefinition/SetUp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="14" column="23" lean-forward="false" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1134,22 +1133,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/stepdefinition/OpenCustomerDefinition.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="735">
-          <caret line="55" column="16" lean-forward="false" selection-start-line="55" selection-start-column="16" selection-end-line="55" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/modules/CustomerLoginAction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="34" column="54" lean-forward="false" selection-start-line="34" selection-start-column="54" selection-end-line="34" selection-end-column="54" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1157,154 +1140,6 @@
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/stepdefinition/CustomerLoginDefinition.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="29" column="8" lean-forward="true" selection-start-line="29" selection-start-column="8" selection-end-line="30" selection-end-column="83" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/stepdefinition/TransactionsDefinition.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="77" column="16" lean-forward="false" selection-start-line="77" selection-start-column="16" selection-end-line="77" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="method#i_check_the_correct_customer_account_website#0;class#TransactionsDefinition#0" expanded="false" />
-            <element signature="method#i_select_account_number#0;class#TransactionsDefinition#0" expanded="false" />
-            <element signature="method#i_click_on_deposit_button#0;class#TransactionsDefinition#0" expanded="false" />
-            <element signature="method#i_input_amount_as#0;class#TransactionsDefinition#0" expanded="false" />
-            <element signature="method#i_click_on_deposit_button_to_deposit#0;class#TransactionsDefinition#0" expanded="false" />
-            <element signature="method#i_check_the_confirm_message_as#0;class#TransactionsDefinition#0" expanded="false" />
-            <element signature="method#i_click_on_transactions_button#0;class#TransactionsDefinition#0" expanded="false" />
-            <element signature="method#i_verify_transactions_page#0;class#TransactionsDefinition#0" expanded="false" />
-            <element signature="method#i_check_the_transactions_data_with_date_and#0;class#TransactionsDefinition#0" expanded="false" />
-            <element signature="method#i_click_on_withdrawl_button#0;class#TransactionsDefinition#0" expanded="false" />
-            <element signature="method#i_click_on_withdraw_button_to_withdraw#0;class#TransactionsDefinition#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/pageobjects/BaseClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="22" lean-forward="false" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/pageobjects/HomePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="11" column="4" lean-forward="false" selection-start-line="11" selection-start-column="4" selection-end-line="13" selection-end-column="5" />
-          <folding>
-            <element signature="e#308#309#0" expanded="false" />
-            <element signature="e#337#338#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/pageobjects/CustomerPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/pageobjects/BankManagerPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="284">
-          <caret line="49" column="29" lean-forward="false" selection-start-line="49" selection-start-column="29" selection-end-line="49" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/modules/OpenCustomerAction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/modules/AddCustomerAction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="46" column="23" lean-forward="false" selection-start-line="46" selection-start-column="23" selection-end-line="46" selection-end-column="23" />
-          <folding>
-            <element signature="method#verifyAddCusSuccessfully#0;class#AddCustomerAction#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/stepdefinition/Common.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="30" column="43" lean-forward="false" selection-start-line="30" selection-start-column="43" selection-end-line="30" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/stepdefinition/AddCustomerDefinition.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/modules/DeleteCustomerAction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="43" column="53" lean-forward="false" selection-start-line="43" selection-start-column="53" selection-end-line="43" selection-end-column="53" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#clickCustomersBtn#0;class#DeleteCustomerAction#0" expanded="false" />
-            <element signature="method#verifyCustomersPage#0;class#DeleteCustomerAction#0" expanded="false" />
-            <element signature="method#inputSearchValue#0;class#DeleteCustomerAction#0" expanded="false" />
-            <element signature="method#clickDeleteBtn#0;class#DeleteCustomerAction#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/stepdefinition/DeleteCustomerDefinition.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="46" column="0" lean-forward="false" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/modules/TransactionsAction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="21" column="49" lean-forward="false" selection-start-line="21" selection-start-column="49" selection-end-line="21" selection-end-column="49" />
-          <folding>
-            <element signature="method#clickDepositBtn#0;class#TransactionsAction#0" expanded="false" />
-            <element signature="method#inputAmount#0;class#TransactionsAction#0" expanded="false" />
-            <element signature="method#submitDeposit#0;class#TransactionsAction#0" expanded="false" />
-            <element signature="method#verifyConfirmMsg#0;class#TransactionsAction#0" expanded="false" />
-            <element signature="method#clickTransBtn#0;class#TransactionsAction#0" expanded="false" />
-            <element signature="method#verifyTransPage#0;class#TransactionsAction#0" expanded="false" />
-            <element signature="method#verifyTransData#0;class#TransactionsAction#0" expanded="false" />
-            <element signature="method#clickWithdrawlBtn#0;class#TransactionsAction#0" expanded="false" />
-            <element signature="method#submitWithdraw#0;class#TransactionsAction#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1348,18 +1183,208 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/1.AddCustomer.feature">
+    <entry file="file://$PROJECT_DIR$/src/test/java/modules/AddCustomerAction.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="690">
-          <caret line="46" column="0" lean-forward="true" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
+        <state relative-caret-position="-420">
+          <caret line="9" column="28" lean-forward="false" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+          <folding>
+            <element signature="method#verifyAddCusSuccessfully#0;class#AddCustomerAction#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/modules/CustomerLoginAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="28" lean-forward="false" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/modules/DeleteCustomerAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="43" column="53" lean-forward="false" selection-start-line="43" selection-start-column="53" selection-end-line="43" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#clickCustomersBtn#0;class#DeleteCustomerAction#0" expanded="false" />
+            <element signature="method#verifyCustomersPage#0;class#DeleteCustomerAction#0" expanded="false" />
+            <element signature="method#inputSearchValue#0;class#DeleteCustomerAction#0" expanded="false" />
+            <element signature="method#clickDeleteBtn#0;class#DeleteCustomerAction#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/modules/HomeAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="28" lean-forward="false" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/modules/OpenCustomerAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="24" lean-forward="false" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/modules/TransactionsAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#clickDepositBtn#0;class#TransactionsAction#0" expanded="false" />
+            <element signature="method#inputAmount#0;class#TransactionsAction#0" expanded="false" />
+            <element signature="method#submitDeposit#0;class#TransactionsAction#0" expanded="false" />
+            <element signature="method#verifyConfirmMsg#0;class#TransactionsAction#0" expanded="false" />
+            <element signature="method#clickTransBtn#0;class#TransactionsAction#0" expanded="false" />
+            <element signature="method#verifyTransPage#0;class#TransactionsAction#0" expanded="false" />
+            <element signature="method#verifyTransData#0;class#TransactionsAction#0" expanded="false" />
+            <element signature="method#clickWithdrawlBtn#0;class#TransactionsAction#0" expanded="false" />
+            <element signature="method#submitWithdraw#0;class#TransactionsAction#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pageobjects/BankManagerPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pageobjects/BaseClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="22" lean-forward="false" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pageobjects/CustomerPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pageobjects/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="4" lean-forward="false" selection-start-line="11" selection-start-column="4" selection-end-line="13" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#308#309#0" expanded="true" />
+            <element signature="e#337#338#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/stepdefinition/AddCustomerDefinition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/stepdefinition/Common.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="13" column="22" lean-forward="true" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/stepdefinition/CustomerLoginDefinition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/stepdefinition/DeleteCustomerDefinition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/stepdefinition/OpenCustomerDefinition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="825">
+          <caret line="55" column="16" lean-forward="false" selection-start-line="55" selection-start-column="16" selection-end-line="55" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/stepdefinition/RunCukesTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+        <state relative-caret-position="450">
+          <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/stepdefinition/SetUp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/stepdefinition/TransactionsDefinition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="37" lean-forward="true" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#i_check_the_correct_customer_account_website#0;class#TransactionsDefinition#0" expanded="false" />
+            <element signature="method#i_select_account_number#0;class#TransactionsDefinition#0" expanded="false" />
+            <element signature="method#i_click_on_deposit_button#0;class#TransactionsDefinition#0" expanded="false" />
+            <element signature="method#i_input_amount_as#0;class#TransactionsDefinition#0" expanded="false" />
+            <element signature="method#i_click_on_deposit_button_to_deposit#0;class#TransactionsDefinition#0" expanded="false" />
+            <element signature="method#i_check_the_confirm_message_as#0;class#TransactionsDefinition#0" expanded="false" />
+            <element signature="method#i_click_on_transactions_button#0;class#TransactionsDefinition#0" expanded="false" />
+            <element signature="method#i_verify_transactions_page#0;class#TransactionsDefinition#0" expanded="false" />
+            <element signature="method#i_check_the_transactions_data_with_date_and#0;class#TransactionsDefinition#0" expanded="false" />
+            <element signature="method#i_click_on_withdrawl_button#0;class#TransactionsDefinition#0" expanded="false" />
+            <element signature="method#i_click_on_withdraw_button_to_withdraw#0;class#TransactionsDefinition#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/1.AddCustomer.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="23" column="36" lean-forward="true" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
           <folding />
         </state>
       </provider>
