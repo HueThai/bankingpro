@@ -1,5 +1,5 @@
-Feature: In order to Delete Customer successfully
-  Scenario Outline: Checking the search feature successfully
+Feature: In order to Delete Customer successfully.
+  Scenario Outline: TC_008_Checking the search feature successfully.
     Given I open the website <website>
     Then I click bank manager login button
     And I verify the dashboard manage account in bank
@@ -12,7 +12,7 @@ Feature: In order to Delete Customer successfully
       | http://www.globalsqa.com/angularJs-protractor/BankingProject/#/login | aaaaaaaa | 0       |
       | http://www.globalsqa.com/angularJs-protractor/BankingProject/#/login | Hermoine | 1       |
 
-  Scenario Outline: Checking the deleting a customer successfully
+  Scenario Outline: TC_009_Checking the deleting a customer successfully.
   successfully
     Given I open the website <website>
     Then I click bank manager login button

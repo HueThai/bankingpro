@@ -1,5 +1,5 @@
-Feature: Transactions feature of customer
-  Scenario Outline: Customer made deposit successfully
+Feature: Transactions feature of customer.
+  Scenario Outline: TC_006_Customer made deposit successfully.
     Given I open the website <website>
     Then I check the correct 'Customer Account' website
     When I select Account Number
@@ -16,7 +16,7 @@ Feature: Transactions feature of customer
       |http://www.globalsqa.com/angularJs-protractor/BankingProject/#/account | 500    | Deposit Successful | Credit     |
 
 
-  Scenario Outline: Customer made withdrawl successfully
+  Scenario Outline: TC_007_Customer made withdrawl successfully.
     Given I open the website <website>
     Then I check the correct 'Customer Account' website
     When I select Account Number

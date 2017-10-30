@@ -1,8 +1,8 @@
 
-Feature: In order to open account to have the transaction successfully
+Feature: In order to open account to have the transaction successfully.
   # Enter feature description here
 
-  Scenario Outline: TC_OpenCust001_Open account successfully
+  Scenario Outline: TC_004_Open account successfully.
     # Enter steps here
     Given I open the website <website>
     Then I click bank manager login button

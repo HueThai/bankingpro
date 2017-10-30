@@ -1,6 +1,6 @@
 
-Feature: In order to add customer so that the system has the customer successfully
-  Scenario Outline: TC_AddCust001_Add the customer successfully
+Feature: In order to add customer so that the system has the customer successfully.
+  Scenario Outline: TC_001_Add the customer successfully.
     Given I open the website <website>
     Then I click bank manager login button
     And I verify the dashboard manage account in bank
@@ -17,7 +17,7 @@ Feature: In order to add customer so that the system has the customer successful
     | http://www.globalsqa.com/angularJs-protractor/BankingProject/#/login | Thu        | Le       | 085      | true   | Customer added successfully with customer id :8 |
 
 
-  Scenario Outline: TC_AddCust002_Add the customer unsuccessfully in case set empty into email and password
+  Scenario Outline: TC_002_Add the customer unsuccessfully in case set empty into email and password.
     Given I open the website <website>
     Then I click bank manager login button
     And I verify the dashboard manage account in bank
@@ -31,7 +31,7 @@ Feature: In order to add customer so that the system has the customer successful
       | website                                                              | firstname | lastname | postcode | status |
       | http://www.globalsqa.com/angularJs-protractor/BankingProject/#/login | empty     | empty    | empty    | false  |
 
-  Scenario Outline:TC_AddCust003_Adding the Customer unsuccessfully in case duplicate account
+  Scenario Outline:TC_003_Adding the Customer unsuccessfully in case duplicate account.
     Given I open the website <website>
     Then I click bank manager login button
     And I verify the dashboard manage account in bank
