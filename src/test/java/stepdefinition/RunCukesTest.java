@@ -14,7 +14,7 @@ import org.junit.runner.RunWith;
 @CucumberOptions(
         features = {"src/test/resources"},
 
-        plugin = {"pretty", "json:target/cucumber-report/cucumber.json"}, // lưu report bằng file  khi mở jenkin
+        plugin = {"pretty", "json:target/cucumber-report.json"}, // lưu report bằng file  khi mở jenkin
         //plugin = {"pretty", "html:target/cucumber-report/cucumber.html"},lưu report bằng file html khi mở jenkin
         tags = {}
 )
